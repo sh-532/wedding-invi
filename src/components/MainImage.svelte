@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { groomFullName, dday, brideFullName, poiSubText, poiName, timeStr } from '../resource/input'
 
-	const imgURL = 'image/kakao_link_image.jpeg';
+	const imgURL = 'image/kakao_link_image.jpg';
 	const dateText = dday[0] + '년 ' + dday[1] + '월 ' + dday[2] + '일, ' + timeStr;
 	export let isTouched: boolean;
 </script>
