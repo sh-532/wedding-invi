@@ -88,17 +88,17 @@ export const mainMsg8 = '저희의 앞날에 단단한 토양이 되어주세요
 // resource path
 export const mapImageSrc = "image/map.png"
 export let images: string[] = [
-    'image/1.jpeg',
-    'image/2.jpeg',
-    'image/3.jpeg',
-    'image/4.jpeg',
-    'image/5.jpeg',
-    'image/6.jpeg',
-    'image/7.jpeg',
-    'image/8.jpeg',
-    'image/9.jpeg',
+    'image/1.jpg',
+    'image/2.jpg',
+    'image/3.jpg',
+    'image/4.jpg',
+    'image/5.jpg',
+    'image/6.jpg',
+    'image/7.jpg',
+    'image/8.jpg',
+    'image/9.jpg',
 ];
 
-export const mainImageURL = 'image/kakao_link_image.jpeg';
+export const mainImageURL = 'image/kakao_link_image.jpg';
 //export const mainImageURL = 'https://wedding-invi-one.vercel.app/image/kakao_link_image.jpeg'; 
 export const siteURL = 'https://wedding-invi-one.vercel.app'
