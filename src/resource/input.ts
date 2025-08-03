@@ -1,15 +1,15 @@
 
 // main title
 
-export const mainTitle = '이신랑 ❤ 장신부의 결혼식에 초대합니다.'
-export const mainDescription = '2023년 10월 21일 토요일 11시 \n ABC 웨딩홀'
+export const mainTitle = '김명석 ❤ 오상희의 결혼식에 초대합니다.'
+export const mainDescription = '2025년 11월 8일 토요일 12시 \n KU 컨벤션 웨딩홀'
 
 // main info
-export const brideName = '이름'
-export const groomName = '이름'
+export const brideName = '상희'
+export const groomName = '명석'
 
-export const brideFullName = '성이름'
-export const groomFullName = '성이름'
+export const brideFullName = '오상희'
+export const groomFullName = '김명석'
 
 // account info 
 export const AccountInfo = {
@@ -51,10 +51,10 @@ export const AccountInfo = {
 
 
 // date, place 
-export const dday = [2025, 10, 21]
-export const timeStr = '토요일 12시 30분 '
+export const dday = [2025, 11, 8]
+export const timeStr = '토요일 12시 '
 export const poiSubText = 'subtext'
-export const poiName = 'ABC 웨딩홀'
+export const poiName = 'KU 컨벤션 웨딩홀홀'
 export const address = '성남시 분당구 금곡동 정자일로 45'
 
 export const longitude: number = 37.457414
