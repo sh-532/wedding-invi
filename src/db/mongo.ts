@@ -16,6 +16,7 @@ export async function connectToDatabase() {
 		database = await mongoClient.db('wedding-invi');
 	}
 	return { mongoClient, database };
+	console.error('connectToDatabase error:', database);
 }
 
 export async function getGuestbookCollection() {
