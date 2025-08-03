@@ -54,7 +54,7 @@ export const AccountInfo = {
 export const dday = [2025, 11, 8]
 export const timeStr = '토요일 12시 '
 export const poiSubText = 'subtext'
-export const poiName = 'KU 컨벤션 웨딩홀홀'
+export const poiName = 'KU 컨벤션 웨딩홀'
 export const address = '성남시 분당구 금곡동 정자일로 45'
 
 export const longitude: number = 37.457414
