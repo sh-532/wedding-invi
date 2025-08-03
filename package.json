@@ -44,7 +44,7 @@
 		"svelte-awesome": "3.2.1",
 		"swiper": "10.1.0",
 		"tailwind-merge": "1.14.0"
-	}
+	},
 	"engines":{
     "node": "18.x"
   }
